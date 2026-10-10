@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final-year engineering student at ESPRIT, Tunisia, interested in DevOps, Cloud Computing, AI Engineering, and Full Stack Development. I build web applications using Spring Boot and Angular, automate CI/CD pipelines, deploy containerized applications with Docker and Kubernetes, and develop local AI solutions using RAG, LLMs, and vector databases. I'm seeking a final-year internship starting in December 2026 to contribute to real-world projects and further develop my engineering skills.<br><br>
+I'm an engineer , Tunisia, interested in DevOps, Cloud Computing, AI Engineering, and Full Stack Development. I build web applications using Spring Boot and Angular, automate CI/CD pipelines, deploy containerized applications with Docker and Kubernetes, and develop local AI solutions using RAG, LLMs, and vector databases. I'm seeking a final-year internship starting in December 2026 to contribute to real-world projects and further develop my engineering skills.<br><br>
 
 
 # 💻 Tech Stack:
